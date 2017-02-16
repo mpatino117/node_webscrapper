@@ -4,50 +4,18 @@ const request = require('request');
 const cheerio = require('cheerio');
 const app = express();
 
-app.get('/scrape', () => {
-    url = 'http://www.imdb.com/title/tt1229340/'
+request('http://www.gamestop.com/browse/playstation-4/role-playing?nav=28-xu0,131dc-6a', function(error, response, body) {
 
-    request(url, (error, response, html) => {
+    if (error) {
+        console.log('Error:' + error);
 
-        if (!error) {
+    }
 
-            var $ = cheerio.load(html);
+    var $ = cheerio.load(body);
 
-            var title,
-                release,
-                rating;
+    $('#wikiArticle').filter(function(){
 
-            var json = {
-                title: "",
-                release: "",
-                rating: ""
-            };
-
-            $('.header').filter(function() {
-
-                let data = $(this);
-
-                title = data.children().first().text();
-
-                release = data.children().last().children().text();
-
-                json.release = release;
-
-                json.title = title;
-
-            })
-
-        }
-
-        fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err) {
-            console.log('File successfully written! - Check your project directory for the output.json file');
-        });
+      var paragraph = $(this).
 
     });
-    res.send('Check your console');
-
-})
-
-app.listen('8081')
-console.log('Magic happens on port 8081');
-exports = module.exports = app;
+});
