@@ -1,0 +1,60 @@
+Ruby `reject!`
+http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject
+Library Hand, the Fastidiously Neat Penmanship Style Made for Card Catalogs
+http://www.atlasobscura.com/articles/library-hand-penmanship-handwriting
+Starting an Internet Service Provider
+http://chrishacken.com/starting-an-internet-service-provider/
+NetBSD fully reproducible builds
+https://blog.netbsd.org/tnf/entry/netbsd_fully_reproducible_builds
+Signal can now be used without Google Play Services
+https://github.com/WhisperSystems/Signal-Android/commit/1669731329bcc32c84e33035a67a2fc22444c24b
+WWII Propaganda Popularized the Myth That Carrots Help You See in the Dark
+http://www.smithsonianmag.com/arts-culture/a-wwii-propaganda-campaign-popularized-the-myth-that-carrots-help-you-see-in-the-dark-28812484/?no-ist
+Using Yubikeys Everywhere
+http://www.tedunangst.com/flak/post/using-yubikeys-everywhere
+Cross-Site Request Forgery is dead
+https://scotthelme.co.uk/csrf-is-dead/
+Windows 10 Virtual Desktop Enhancer
+https://github.com/sdias/win-10-virtual-desktop-enhancer
+C++ on Embedded Systems
+http://bitbashing.io/embedded-cpp.html
+How we built a back end system for Uber-like maps with animated cars
+https://blog.maddevs.io/how-we-built-a-backend-system-for-uber-like-map-with-animated-cars-on-it-using-go-29d5dcd517a
+How do compilers optimize divisions?
+https://zneak.github.io/fcd/2017/02/19/divisions.html
+The Fundamental Theorem of Algebra: A Visual Approach [pdf]
+https://www.math.washington.edu/~morrow/336_14/fta.pdf
+JPS+: Over 100x Faster than A* (2015) [video]
+http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than
+Running Costs of a SaaS app
+https://cushionapp.com/running-costs
+Why Is Cancer More Common in Men?
+http://harvardmagazine.com/2017/03/why-is-cancer-more-common-in-men
+Little Languages (1995)
+http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-9/little-languages.html
+Automatic Colorization
+http://tinyclouds.org/colorize/
+US Navy Nuclear Power School Study Materials
+http://www.navsea.navy.mil/Home/NNPTC/Power-School/StudyMaterial/
+From math to machine: translating a function to machine code
+https://briansteffens.github.io/2017/02/20/from-math-to-machine.html
+Efficient game updates
+https://amos.me/blog/2017/efficient-game-updates/
+A Weapon for Readers (2014)
+http://www.nybooks.com/daily/2014/12/03/weapon-for-readers/
+Cmd/compile: Go 1.8 regression: sync/atomic loop elided
+https://github.com/golang/go/issues/19182
+Hyperspectral analysis with just an app
+https://www.fraunhofer.de/en/press/research-news/2017/february/app-reveals-constituents.html
+Show HN: Griddle 1.0 – A customizable datagrid component for React
+http://griddlegriddle.github.io/Griddle/
+Do we need a new heading element in HTML?
+https://jakearchibald.com/2017/do-we-need-a-new-heading-element/
+LoadAverage is shutting down
+https://wiki.loadaverage.org/news/bye_guys
+Thoughts on the Late 2016 MacBook Pro
+https://www.perpetual-beta.org/weblog/thoughts-on-the-late-2016-macbook-pro.html
+Why Do So Many Incompetent Men Become Leaders? (2013)
+https://hbr.org/2013/08/why-do-so-many-incompetent-men
+Life and Adventures of Jack Engle: An Auto-Biography by Walt Whitman
+http://ir.uiowa.edu/cgi/viewcontent.cgi?article=2251&context=wwqr
